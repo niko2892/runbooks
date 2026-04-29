@@ -2,4 +2,5 @@ site_name: "Runbooks"
 nav:
   - Главная: index.md
   - Runbooks:
-      - Рост 5xx: runbooks/http_5xx_rate_high.md
+      - Рост 5xx общий: runbooks/http_5xx_rate_high.md
+      - Рост 5xx на сервисе кредитов: runbooks/bbank-credits_5xx_rate_high.md
